@@ -1,0 +1,5 @@
+For PCA:
+
+https://www.datarobot.com/blog/how-much-data-is-needed-to-train-a-good-model/
+
+https://towardsai.net/p/l/how-much-training-data-do-you-require-for-machine-learning
